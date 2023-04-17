@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: Datafield
-description: I am a fifth-year undergraduate student in University of Toronto.
+description: [I am a fifth-year undergraduate student in University of Toronto.
 I am in Actuarial Science specialist, Statistics & Economics Double Major Programs.
-The purpose of this blog is to share some of my study based on the Statistics Methods, and to explore some interesting datasets
+The purpose of this blog is to share some of my study based on the Statistics Methods, and to explore some interesting datasets]
