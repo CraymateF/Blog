@@ -1,5 +1,7 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Datafield
+description: [I am a fifth-year undergraduate student in University of Toronto.
+I am in Actuarial Science specialist, Statistics & Economics Double Major Programs.
+The purpose of this blog is to share some of my study based on the Statistics Methods, and to explore some interesting datasets]
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
