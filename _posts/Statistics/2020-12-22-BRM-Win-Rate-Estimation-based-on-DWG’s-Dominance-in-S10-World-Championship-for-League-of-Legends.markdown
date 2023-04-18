@@ -1,1 +1,0 @@
-[Download PDF](assets/BRM Win Rate Estimation based on DWG’s Dominance in S10 World Championship for League of Legends.pdf)

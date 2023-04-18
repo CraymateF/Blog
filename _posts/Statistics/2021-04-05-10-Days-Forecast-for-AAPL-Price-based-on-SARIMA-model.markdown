@@ -1,1 +1,0 @@
-[Download PDF](assets/10 Days Forecast for AAPL Price based on SARIMA model.pdf)

@@ -1,1 +1,0 @@
-[Download PDF](assets/Narrow Victory for Biden Projected in 2020 US Presidential Election.pdf)
