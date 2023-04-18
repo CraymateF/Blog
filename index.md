@@ -2,7 +2,10 @@
 layout: default
 ---
 
-[**Linkedin**](https://www.linkedin.com/in/zhendong-benny-zhang-509990193/)
+**About Me:**
+[Linkedin](https://www.linkedin.com/in/zhendong-benny-zhang-509990193/)
+[Resume](assets/New 2023-1.pdf)
+
 
 # Economics Reports:
 [1. Examining Canadians’ Feelings of Life in the Context of Children, Age and Income](assets/Examining Canadians’ Feelings of Life in the Context of Children, Age and Income.pdf).
